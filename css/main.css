@@ -8,5 +8,15 @@ h1 {
   font-style: bold;
 }
 
+nav li {
+  list-style: none;
+}
 
+a {
+  text-decoration: none;
+  color: #8f2440;
+  font-family: 'PT Serif', serif;
+  font-size: 1.125rem;
+  list-style: none;
+  font-weight: bold;
 }
