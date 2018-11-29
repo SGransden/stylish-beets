@@ -6,7 +6,7 @@ html {
 h1 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 1.5rem;
   list-style: none;
 }
@@ -34,5 +34,12 @@ a:hover {
 }
 
 figure {
-  margin-top: .5em;
+  padding-top: .25em;
+}
+
+p {
+  font-family: "PT Serif", serif;
+  font-size: 1.125rem;
+  list-style: none;
+  font-weight: normal;
 }
